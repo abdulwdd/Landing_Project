@@ -1,0 +1,25 @@
+.head{
+    display: flex;
+    /* flex-direction: column; */
+    text-decoration: none;
+    align-items: center;
+    align-content: center;
+    
+}
+.main{
+    display: flex;
+    align-items: center;
+    /* text-decoration: none; */
+    justify-content: space-around;
+    gap: 20%;
+}
+#but{
+    padding: 10px;
+    background-color: #111B47;
+    font-style: italic;
+    color: white;
+    border: 1px solid;
+}
+.head2{
+    color: #111B47;
+}
